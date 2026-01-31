@@ -23,7 +23,7 @@ docker run -d -p 80:80 docker/getting-started
 ```
 
 **Скриншот выполнения:**  
-![Задание 2](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/2.jpg)  
+![Задание 2](https://github.com/edves634/Docker/blob/main/2.jpg)  
 *Запуск контейнера getting-started в фоновом режиме*
 
 ---
@@ -37,7 +37,7 @@ docker stop <container_id>
 ```
 
 **Скриншот выполнения:**  
-![Задание 3](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/3.jpg)  
+![Задание 3](https://github.com/edves634/Docker/blob/main/3.jpg)  
 *Поиск и остановка контейнера*
 
 ---
@@ -53,7 +53,7 @@ curl http://localhost:5000/v2/_catalog
 ```
 
 **Скриншот выполнения:**  
-![Задание 4](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/4.jpg)  
+![Задание 4](https://github.com/edves634/Docker/blob/main/4.jpg)  
 *Работа с локальным registry*
 
 ---
