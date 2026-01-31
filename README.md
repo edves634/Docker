@@ -10,7 +10,7 @@ docker run -i -t ubuntu /bin/bash
 ```
 
 **Скриншот выполнения:**  
-![Задание 1](https://github.com/edves634/Docker/1.jpg)  
+![Задание 1](https://github.com/edves634/Docker/blob/main/1.jpg)  
 *Запуск интерактивного контейнера Ubuntu*
 
 ---
