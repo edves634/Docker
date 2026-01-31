@@ -10,7 +10,7 @@ docker run -i -t ubuntu /bin/bash
 ```
 
 **Скриншот выполнения:**  
-![Задание 1](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/1.png)  
+![Задание 1](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/1.jpg)  
 *Запуск интерактивного контейнера Ubuntu*
 
 ---
@@ -23,7 +23,7 @@ docker run -d -p 80:80 docker/getting-started
 ```
 
 **Скриншот выполнения:**  
-![Задание 2](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/2.png)  
+![Задание 2](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/2.jpg)  
 *Запуск контейнера getting-started в фоновом режиме*
 
 ---
@@ -37,7 +37,7 @@ docker stop <container_id>
 ```
 
 **Скриншот выполнения:**  
-![Задание 3](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/3.png)  
+![Задание 3](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/3.jpg)  
 *Поиск и остановка контейнера*
 
 ---
@@ -53,7 +53,7 @@ curl http://localhost:5000/v2/_catalog
 ```
 
 **Скриншот выполнения:**  
-![Задание 4](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/4.png)  
+![Задание 4](https://github.com/ваш-username/ваш-репозиторий/blob/main/screenshots/4.jpg)  
 *Работа с локальным registry*
 
 ---
